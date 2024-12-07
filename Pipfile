@@ -10,7 +10,7 @@ coverage = "*"
 
 [packages]
 django = "~=3.0"
-djangorestframework = "~=3.0"
+djangorestframework = "~=3.11"
 django-cors-headers = "~=3.0"
 mysqlclient = "*"
 pytest = "*"
